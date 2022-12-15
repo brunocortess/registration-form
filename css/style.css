@@ -65,6 +65,7 @@ input[type="submit"] {
     background-color: #3B3B4F;
     border-color: white;
     min-width: 300px;
+    cursor: pointer;
 }
 
 input[type="file"] {
@@ -74,3 +75,4 @@ input[type="file"] {
 a {
     color: #dfdfe2;
 }
+
